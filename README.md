@@ -1,5 +1,10 @@
 # Language Keyword and Type Matrix
 
+- [Keyboards](#keywords)
+- [Primitive/Built-in Types](#primitivebuilt-in-types)
+- [Operators](#operators)
+- [Built-in Functions](#built-in-functions)
+
 ## Keywords
 
 | Keywords  | c | go | js | rs |
@@ -138,6 +143,29 @@
 |Types     | c | go | js | rs |
 |----------|---|----|----|----|
 |total     | 9 | 23 | -  | 14 |
+
+## Operators
+
+|Operators| c | go | js | rs |
+|---------|---|----|----|----|
+|`*`      | x |  x |  x |  x |
+|`/`      | x |  x |  x |  x |
+|`%`      | x |  x |  x |  x |
+|`+`      | x |  x |  x |  x |
+|`-`      | x |  x |  x |  x |
+|`<`      | x |  x |  x |  x |
+|`>`      | x |  x |  x |  x |
+|`<=`     | x |  x |  x |  x |
+|`>=`     | x |  x |  x |  x |
+|`\|\|`   | x |  x |  x |  x |
+|`&&`     | x |  x |  x |  x |
+|`*=`     | x |  x |  x |  x |
+|`/=`     | x |  x |  x |  x |
+|`%=`     | x |  x |  x |  x |
+|`+`      | x |  x |  x |  x |
+|`-`      | x |  x |  x |  x |
+|`++`     | x |  x |  x |    |
+|`--`     | x |  x |  x |    |
 
 ## Built-in Functions
 
