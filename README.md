@@ -6,8 +6,8 @@
 |-----------|---|----|----|----|
 |as         |   |    |    |  x |
 |async      |   |    |    |  x |
-|await      |   |    |    |  x |
 |auto       | x |    |    |    |
+|await      |   |    |    |  x |
 |break      | x |  x |  x |  x |
 |case       | x |  x |  x |    |
 |catch      |   |    |  x |    |
@@ -83,6 +83,8 @@
 |while      | x |    |  x |  x |
 |with       |   |    |  x |    |
 |yield      |   |    |  x |    |
+
+| Keywords  | c | go | js | rs |
 |-----------|---|----|----|----|
 |total      | 25| 26 | 42 | 38 |
 
@@ -132,6 +134,8 @@
 |usize     |   |    |    |  x |
 |unsigned  | x |    |    |    |
 |void      | x |    |    |    |
+
+|Types     | c | go | js | rs |
 |----------|---|----|----|----|
 |total     | 9 | 23 | -  | 14 |
 
@@ -152,5 +156,7 @@
 |imag     |   |  x |    |    |
 |panic    |   |  x |    |    |
 |recover  |   |  x |    |    |
+
+|Functions| c | go | js | rs |
 |---------|---|----|----|----|
 |total    | - | 13 |  - |  - |
