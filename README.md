@@ -97,7 +97,7 @@
 
 | Types    | c | go | js | rs |
 |----------|---|----|----|----|
-|bool      | x |  x |    |    |
+|bool      | x |  x |  x |  x |
 |byte      |   |  x |    |    |
 |char      | x |    |    |    |
 |complex64 |   |  x |    |    |
@@ -119,10 +119,11 @@
 |int16     |   |  x |    |    |
 |int32     |   |  x |    |    |
 |int64     |   |  x |    |    |
-|isize     |   |    |    |  x |
 |iota      |   |  x |    |    |
+|isize     |   |    |    |  x |
 |long      | x |    |    |    |
 |nil       |   |  x |    |    |
+|null      |   |    |  x |    |
 |rune      |   |  x |    |    |
 |short     | x |    |    |    |
 |string    |   |  x |    |    |
@@ -137,12 +138,13 @@
 |uint32    |   |  x |    |    |
 |uint64    |   |  x |    |    |
 |usize     |   |    |    |  x |
+|undefined |   |    |  x |    |
 |unsigned  | x |    |    |    |
 |void      | x |    |    |    |
 
 |Types     | c | go | js | rs |
 |----------|---|----|----|----|
-|total     | 9 | 23 | -  | 14 |
+|total     | 9 | 23 |  3 | 14 |
 
 ## Operators
 
