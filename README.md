@@ -1,7 +1,7 @@
 # Language Keyword and Type Matrix
 
 - [Keyboards](#keywords)
-- [Primitive/Built-in Types](#primitivebuilt-in-types)
+- [Basic Types](#basic-types)
 - [Operators](#operators)
 - [Built-in Functions](#built-in-functions)
 
@@ -93,7 +93,7 @@
 |-----------|---|----|----|----|
 |total      | 25| 26 | 42 | 38 |
 
-## Primitive/Built-in Types
+## Basic Types
 
 | Types    | c | go | js | rs |
 |----------|---|----|----|----|
@@ -168,6 +168,10 @@
 |`-`      | x |  x |  x |  x |
 |`++`     | x |  x |  x |    |
 |`--`     | x |  x |  x |    |
+
+|Operators| c | go | js | rs |
+|---------|---|----|----|----|
+|total    | 18| 18 | 18 | 16 |
 
 ## Built-in Functions
 
