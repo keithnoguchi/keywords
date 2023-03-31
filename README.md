@@ -1,7 +1,7 @@
 # Language Keyword and Type Matrix
 
 - [Keyboards](#keywords)
-- [Basic Types](#basic-types)
+- [Basic Data Types](#basic-data-types)
 - [Operators](#operators)
 - [Built-in Functions](#built-in-functions)
 
@@ -93,7 +93,7 @@
 |-----------|---|----|----|----|
 |total      | 25| 26 | 42 | 38 |
 
-## Basic Types
+## Basic Data Types
 
 | Types    | c | go | js | rs |
 |----------|---|----|----|----|
