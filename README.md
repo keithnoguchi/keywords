@@ -137,6 +137,7 @@
 |uint16    |   |  x |    |    |
 |uint32    |   |  x |    |    |
 |uint64    |   |  x |    |    |
+|uintptr   |   |  x |    |    |
 |usize     |   |    |    |  x |
 |undefined |   |    |  x |    |
 |unsigned  | x |    |    |    |
@@ -144,7 +145,7 @@
 
 |Types     | c | go | js | rs |
 |----------|---|----|----|----|
-|total     | 9 | 23 |  3 | 14 |
+|total     | 9 | 24 |  3 | 14 |
 
 ## Operators
 
