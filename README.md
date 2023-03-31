@@ -1,6 +1,6 @@
-# Language Keyword and Type Matrix
+# Language Keywords and Basic Data Types
 
-- [Keyboards](#keywords)
+- [Keywords](#keywords)
 - [Basic Data Types](#basic-data-types)
 - [Operators](#operators)
 - [Built-in Functions](#built-in-functions)
