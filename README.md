@@ -3,7 +3,7 @@
 - [Keywords](#keywords)
 - [Basic Data Types](#basic-data-types)
 - [Operators](#operators)
-- [Built-in Functions](#built-in-functions)
+- [Built-in Functions](#built-in-functions-operators)
 
 ## Keywords
 
@@ -179,22 +179,23 @@
 |:-------:|--:|---:|---:|---:|
 |total    | 20| 21 | 22 | 18 |
 
-## Built-in Functions
+## Built-in Functions/Operators
 
 |Functions| c | go | js | rs |
 |:--------|:-:|:--:|:--:|:--:|
-|make     |   |  x |    |    |
-|len      |   |  x |    |    |
-|cap      |   |  x |    |    |
-|new      |   |  x |    |    |
 |append   |   |  x |    |    |
-|copy     |   |  x |    |    |
-|close    |   |  x |    |    |
-|delete   |   |  x |    |    |
+|cap      |   |  x |    |    |
+|close    |   |  x |  x |    |
 |complex  |   |  x |    |    |
-|real     |   |  x |    |    |
+|copy     |   |  x |    |    |
+|delete   |   |  x |  x |    |
 |imag     |   |  x |    |    |
+|in       |   |    |  x |    |
+|len      |   |  x |    |    |
+|make     |   |  x |    |    |
+|new      |   |  x |    |    |
 |panic    |   |  x |    |    |
+|real     |   |  x |    |    |
 |recover  |   |  x |    |    |
 
 |Functions| c | go | js | rs |
